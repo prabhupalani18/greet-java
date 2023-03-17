@@ -1,4 +1,4 @@
-package com.greetTest;
+package com.greet;
 
 import org.junit.Before;
 import org.junit.Test;
