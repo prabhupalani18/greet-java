@@ -105,7 +105,7 @@
 			<input type="password" placeholder="Repeat Password" name="psw-repeat" required>
 
 			<button type="submit">Register</button>
-			<a href="#" class="cancelbtn">Cancel</a>
+			<a href="#" class="cancelbtn">Reject</a>
 		</form>
 	</div>
 </body>
